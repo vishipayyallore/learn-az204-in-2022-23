@@ -1,7 +1,7 @@
-﻿using College.Core.Entities;
+﻿using Collage.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace College.DAL.Persistence
+namespace Collage.DAL.Persistence
 {
 
     public class CollegeCosmosDbContext : DbContext

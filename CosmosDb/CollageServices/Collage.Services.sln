@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{E3ED39F4-ED65-4FCA-BFEC-200F5373E857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "College.Core", "Source\College.Core\College.Core.csproj", "{A09BE5DA-34CF-4019-9671-1CB1FDCCFC32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collage.Core", "Source\College.Core\Collage.Core.csproj", "{A09BE5DA-34CF-4019-9671-1CB1FDCCFC32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "College.DAL", "Source\College.DAL\College.DAL.csproj", "{C10769AB-4584-405C-BCEA-FF062C651349}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collage.DAL", "Source\College.DAL\Collage.DAL.csproj", "{C10769AB-4584-405C-BCEA-FF062C651349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "College.BLL", "Source\College.BLL\College.BLL.csproj", "{9EA2DDF6-2FE3-4E2D-B7B5-32A7FDC438C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collage.BLL", "Source\College.BLL\Collage.BLL.csproj", "{9EA2DDF6-2FE3-4E2D-B7B5-32A7FDC438C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collage.API", "Source\Collage.API\Collage.API.csproj", "{A9B1E677-0931-4913-A81D-222A5D082F7C}"
 EndProject

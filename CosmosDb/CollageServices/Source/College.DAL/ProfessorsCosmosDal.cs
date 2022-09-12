@@ -1,10 +1,10 @@
-﻿using College.Core.Entities;
-using College.Core.Interfaces;
-using College.DAL.Persistence;
+﻿using Collage.Core.Entities;
+using Collage.Core.Interfaces;
+using Collage.DAL.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
-namespace College.DAL
+namespace Collage.DAL
 {
 
     public class ProfessorsCosmosDal : IProfessorsCosmosDal

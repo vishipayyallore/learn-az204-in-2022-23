@@ -1,6 +1,6 @@
-﻿using College.Core.Entities;
+﻿using Collage.Core.Entities;
 
-namespace College.Core.Interfaces
+namespace Collage.Core.Interfaces
 {
 
     public interface IProfessorsCosmosBll

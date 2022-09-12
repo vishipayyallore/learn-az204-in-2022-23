@@ -1,4 +1,4 @@
-﻿namespace College.Core.Common
+﻿namespace Collage.Core.Common
 {
     public static class Constants
     {

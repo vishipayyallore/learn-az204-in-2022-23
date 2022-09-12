@@ -1,8 +1,8 @@
-﻿using College.Core.Entities;
-using College.Core.Interfaces;
+﻿using Collage.Core.Entities;
+using Collage.Core.Interfaces;
 using Microsoft.Extensions.Logging;
 
-namespace College.BLL
+namespace Collage.BLL
 {
 
     public class ProfessorsCosmosBll : IProfessorsCosmosBll

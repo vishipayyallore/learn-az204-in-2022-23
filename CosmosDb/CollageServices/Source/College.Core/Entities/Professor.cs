@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace College.Core.Entities
+namespace Collage.Core.Entities
 {
 
     public class Professor
