@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\College.Core\Collage.Core.csproj" />
+    <ProjectReference Include="..\Collage.Core\Collage.Core.csproj" />
   </ItemGroup>
 
 </Project>
