@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{E3ED39
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "College.Core", "Source\College.Core\College.Core.csproj", "{A09BE5DA-34CF-4019-9671-1CB1FDCCFC32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "College.DAL", "Source\College.DAL\College.DAL.csproj", "{C10769AB-4584-405C-BCEA-FF062C651349}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{A09BE5DA-34CF-4019-9671-1CB1FDCCFC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A09BE5DA-34CF-4019-9671-1CB1FDCCFC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A09BE5DA-34CF-4019-9671-1CB1FDCCFC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10769AB-4584-405C-BCEA-FF062C651349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10769AB-4584-405C-BCEA-FF062C651349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10769AB-4584-405C-BCEA-FF062C651349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10769AB-4584-405C-BCEA-FF062C651349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A09BE5DA-34CF-4019-9671-1CB1FDCCFC32} = {E3ED39F4-ED65-4FCA-BFEC-200F5373E857}
+		{C10769AB-4584-405C-BCEA-FF062C651349} = {E3ED39F4-ED65-4FCA-BFEC-200F5373E857}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A65D2CD2-0F28-4F2E-8389-1A4685603C28}
