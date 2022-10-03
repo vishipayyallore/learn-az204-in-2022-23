@@ -24,7 +24,7 @@
             "value": "Standard_D2s_v5"
         },
         "vmName": {
-            "value": "win-vm-2016-oct2022"
+            "value": "winvmoct2022"
         }
     }
 }

@@ -143,7 +143,7 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "win-vm-2016-oct2022",
+      "defaultValue": "winvmoct2022",
       "metadata": {
         "description": "Name of the virtual machine."
       }
