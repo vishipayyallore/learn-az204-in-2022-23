@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverName": {
+            "value": "sql-books-store-dev-001"
+        },
+        "administratorLogin": {
+            "value": "demouser"
+        },
+        "administratorLoginPassword": {
+            "value": "Password@123$$"
+        },
+        "sqlDBName": {
+            "value": "sqldb-books-store-dev-001"
+        }
+    }
+}
