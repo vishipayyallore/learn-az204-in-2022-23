@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": "demouser"
+        },
+        "adminPassword": {
+            "value": "SampleDimple@123$"
+        },
+        "publicIpName": {
+            "value": "winvm2016PublicIP"
+        },
+        "publicIPAllocationMethod": {
+            "value": "Dynamic"
+        },
+        "publicIpSku": {
+            "value": "Basic"
+        },
+        "OSVersion": {
+            "value": "2016-datacenter-server-core-g2"
+        },
+        "vmSize": {
+            "value": "Standard_D2s_v5"
+        },
+        "vmName": {
+            "value": "winvmoct2022"
+        }
+    }
+}
