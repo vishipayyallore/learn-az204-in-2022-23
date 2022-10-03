@@ -151,11 +151,11 @@
   },
   "variables": {
     "storageAccountName": "[format('bootdiags{0}', uniqueString(resourceGroup().id))]",
-    "nicName": "myVMNic",
+    "nicName": "winvmoct2022Nic",
     "addressPrefix": "10.0.0.0/16",
     "subnetName": "Subnet",
     "subnetPrefix": "10.0.0.0/24",
-    "virtualNetworkName": "MyVNET",
+    "virtualNetworkName": "winvmoct2022VNet",
     "networkSecurityGroupName": "default-NSG"
   },
   "resources": [
